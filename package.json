@@ -1,0 +1,11 @@
+{
+  "name": "make-node-package",
+  "version": "1.0.0",
+  "description": "Exercise in creating a publishable node package for supporting esm, cjs and typescript",
+  "main": "dist/cjs/utils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Greg Sandell",
+  "license": "ISC"
+}
